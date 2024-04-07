@@ -7,7 +7,7 @@ This webpage presents an optimized and streamlined version of an Employee Payrol
 
 ## Visuals
 
-![Website Landing Page](assets/images/EmployeeEmpty.jpg)
+![Website Landing Page](assets/images/EmployeeEmpty.png)
 
 ![ScreenShot of Site](assets/images/EmployeeFull.png)
 
